@@ -227,4 +227,4 @@ Hunter Sarkis
 
 Grand Canyon University
 
-Aspiring Analytics Engineer
+Analytics Engineer
